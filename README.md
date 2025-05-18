@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a student who is interested in software development.
+I am a student who is interested in software development.  
 I try to learn new things every day
 
 ## Technologies & Languages ​​I Work with 💻
