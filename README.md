@@ -4,9 +4,28 @@ I am a student who is interested in software development.
 I try to learn new things every day
 
 ## Technologies & Languages ​​I Work with 💻
-* Java ☕
-* Typescript 🟦
-* Spring Boot 🌿
-* Next.js ⚛️
+* <img src="assets/java-original.svg" alt="Java" height="20" /> Java  
+* <img src="assets/typescript-original.svg" alt="TypeScript" height="20" /> Typescript  
+* <img src="assets/spring-original.svg" alt="Spring Boot" height="20" /> Spring Boot  
+* <img src="assets/nextjs-original.svg" alt="Next.js" height="20" /> Next.js  
 
-Normally I am more interested in the Backend Coding Area, but I like to create modern fast and smooth web applications
+## My Github History 📈
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emekbarisisliyen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emekbarisisliyen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+<br clear="both" />
+
+<img src="https://raw.githubusercontent.com/emekbarisisliyen/emekbarisisliyen/refs/heads/main/assets/github-contribution-grid-snake.svg" alt="Snake animation" />
