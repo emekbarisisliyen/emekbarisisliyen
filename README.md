@@ -18,4 +18,4 @@ I try to learn new things every day
 
 <br clear="both" />
 
-<img src="https://raw.githubusercontent.com/emekbarisisliyen/emekbarisisliyen/refs/heads/main/assets/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/emekbarisisliyen/emekbarisisliyen/refs/heads/main/assets/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
