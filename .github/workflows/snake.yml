@@ -1,9 +1,11 @@
 name: Generate Snake SVG into Assets
 
-on:
+on: 
   push:
     branches: [ main ]
-
+  schedule:
+    - cron: "0 */24 * * *"
+  
 jobs:
   generate-and-push:
     runs-on: ubuntu-latest
